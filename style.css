@@ -1,8 +1,9 @@
 h1{
     text-align: center;
+    background-color: blueviolet;
 }
 P{
     text-align: center;
-    color #B2C8BA;
-    font-size: 30x;
+    color: #B2C8BA;
+    font-size: 30px;
 }
